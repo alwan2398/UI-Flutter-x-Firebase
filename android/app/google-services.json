@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074395857009",
+    "project_id": "flutterauth-d187b",
+    "storage_bucket": "flutterauth-d187b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074395857009:android:6fdfc45aa7010d57d65bd0",
+        "android_client_info": {
+          "package_name": "com.example.app_sederhana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaINQnbtW4Y5N9oEZ36iaXw7dOI36_j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
